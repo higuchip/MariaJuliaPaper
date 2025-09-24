@@ -5,7 +5,7 @@
 # identifying mortality (M), addition (AD) events, and preparing 
 # data for population dynamics analyses.
 #
-# Author: [Your Name]
+# Author: Pedro Higuchi
 # Date: 2025
 # ===============================================================
 
