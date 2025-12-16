@@ -2,7 +2,7 @@
 
 Data and R scripts for:
 
-> **Cruz MJC, Higuchi P, Silva AC, et al.** (in review) Forest recovery or shrubland assembly? Vegetation dynamics in abandoned Atlantic Forest highland pastures. *Biotropica*.
+> **Cruz MJC et al.** (in review) Forest recovery or shrubland assembly? Vegetation dynamics in abandoned Atlantic Forest highland pastures. *Biotropica*.
 
 ## Repository Structure
 
